@@ -1,6 +1,7 @@
 # BMI CALCULATOR - FLUTTER
 It is a well functional bmi calculator app with really beautiful ui to look at. 
 I created this app with reference to the UI from dribbble.com  to make a better use of all the widgets and dart concepts I learned till now. 
+This app is build after watching the course of Angela Yu and I have also used the same concepts here as she used while teaching.
 
 UI Credit : https://dribbble.com/shots/4585382-Simple-BMI-Calculator
 
